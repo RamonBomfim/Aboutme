@@ -5,9 +5,9 @@ I'm a Analysis and Development of Systems student at the University Center CESMA
 [![Linkedin](https://img.shields.io/badge/-Ramon_Bomfim-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ramon-bomfim-8372a919a/)
 <br />
 
-- 👩🏻‍💻 I was an intern in the development team of the Secretariat of Planning, Management and Heritage of Alagoas. Acting primarily as a Back-End developer, using Python and its Django web framework. And I was too an intern at Comdinheiro, acting as a mobile developer, using React-Native. I am now a front-end developer at Grupo Barbosa & Cia. working with Javascript, HTML and CSS, besides learning ReactJs.
+- 👩🏻‍💻 I was an intern in the development team of the Secretariat of Planning, Management and Heritage of Alagoas. Acting primarily as a Back-End developer, using Python and its Django web framework. And I was too an intern at Comdinheiro, acting as a mobile developer, using React-Native. I am now a front-end developer at Grupo Barbosa & Cia. working with ReactJs, Typescript and ChakraUI for styling and components.
 - 🌱 I'm currently learning ReactJs
-- 💬 Ask me about Javascript, HTML and CSS
+- 💬 Ask me about HTML, CSS, Javascript, Typescript, ReactJS, NextJS, SQL
 - 😄 In my free time, I like watching movies with my bride and sometimes I like to play online games.
 
 ### 🛠️ Tech Stack:
